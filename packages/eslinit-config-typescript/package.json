@@ -1,0 +1,25 @@
+{
+  "name": "@iemong/eslint-config-typescript",
+  "version": "0.0.3",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iemong/eslint-config.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "author": "iemong",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">= 8"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "@typescript-eslint/parser": "^5.53.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-promise": "^6.0.0"
+  }
+}
