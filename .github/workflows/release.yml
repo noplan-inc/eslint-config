@@ -3,6 +3,7 @@ on: workflow_dispatch
 jobs:
   release:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     permissions:
       packages: write
       contents: read
@@ -16,6 +17,6 @@ jobs:
         with:
           version: "7.x"
       - run: pnpm install
-      - run: npm publish
+      - run: pnpm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
