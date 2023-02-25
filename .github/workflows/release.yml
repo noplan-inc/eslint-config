@@ -16,6 +16,7 @@ jobs:
       - uses: pnpm/action-setup@v2
         with:
           version: "7.x"
+      - run: pnpm config set shared-workspace-lockfile true
       - run: pnpm install
       - run: pnpm publish
         env:
