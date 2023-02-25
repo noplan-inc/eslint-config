@@ -10,7 +10,5 @@ module.exports = {
       jsx: true
     }
   },
-  rules: {
-    'react/hook-use-state': 2,
-  },
+  rules: {}
 };
