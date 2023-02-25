@@ -1,5 +1,5 @@
-# eslint-config-typescript
-This is a template package of eslint configuration for Typescript.
+# eslint-config
+This is a monorepo repository for packages of eslint configurations.
 
 ## install
 
