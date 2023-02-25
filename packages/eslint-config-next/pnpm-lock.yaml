@@ -1,12 +1,12 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@iemong/eslint-config-typescript': workspace:^0.0.4
+  '@iemong/eslint-config-typescript': workspace:^1.0.0
   eslint-config-next: ^13.2.1
   eslint-plugin-react: ^7.32.2
 
 dependencies:
-  '@iemong/eslint-config-typescript': link:../eslinit-config-typescript
+  '@iemong/eslint-config-typescript': link:../eslint-config-typescript
   eslint-config-next: 13.2.1
   eslint-plugin-react: 7.32.2
 
