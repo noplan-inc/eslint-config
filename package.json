@@ -8,7 +8,7 @@
   },
   "author": "iemong",
   "license": "MIT",
-  "homepage": "https://github.com/iemong/eslint-config#readme",
+  "homepage": "https://github.com/noplan-inc/eslint-config#readme",
   "packageManager": "pnpm@7.27.1",
   "engines": {
     "pnpm": ">=7.27.1"
