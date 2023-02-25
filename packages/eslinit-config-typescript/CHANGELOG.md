@@ -1,5 +1,11 @@
 # @iemong/eslint-config-typescript
 
+## 1.0.0
+
+### Major Changes
+
+- version up
+
 ## 0.0.4
 
 ### Patch Changes
