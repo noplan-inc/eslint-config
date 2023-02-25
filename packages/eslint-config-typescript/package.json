@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iemong/eslint-config.git"
+    "url": "git+https://github.com/noplan-inc/eslint-config.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
