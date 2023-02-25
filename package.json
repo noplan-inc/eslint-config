@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "format": "npx prettier --write .",
-    "publish": "pnpm --filter './packages/**' publish"
+    "publish-packages": "pnpm --filter './packages/**' publish"
   },
   "author": "iemong",
   "license": "MIT",
