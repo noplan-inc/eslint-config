@@ -72,3 +72,11 @@ insert this config to extends in `.eslintrc` or `.eslintrc.json` or `.eslintrc.j
 }
 
 ```
+
+## customize
+
+1. edit `packages/**/index.js` to custom eslint config. 
+2. run `pnpm changeset` (create a changeset)
+3. run `pnpm changeset version` (update package versions)
+4. push changes to main branch.
+5. run GitHub Workflow to publish their npm package as GitHub Packages
