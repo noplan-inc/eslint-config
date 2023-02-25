@@ -1,0 +1,23 @@
+{
+  "name": "@iemong/eslint-config-next",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iemong/eslint-config.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "author": "iemong",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">= 8"
+  },
+  "dependencies": {
+    "@iemong/eslint-config-typescript": "workspace:^0.0.4",
+    "eslint-config-next": "^13.2.1",
+    "eslint-plugin-react": "^7.32.2"
+  }
+}
