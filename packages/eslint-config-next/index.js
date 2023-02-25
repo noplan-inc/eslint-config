@@ -1,7 +1,7 @@
 module.exports = {
   plugins: ["react"],
   extends: [
-    "@iemong/eslint-config-typescript",
+    "@noplan-inc/eslint-config-typescript",
     "plugin:react/recommended",
     "next/core-web-vitals"
   ],

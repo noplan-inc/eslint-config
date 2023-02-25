@@ -5,7 +5,7 @@ This is a monorepo repository for packages of eslint configurations.
 
 add `.npmrc` in your projects (For install from Github Packages)
 ```
-@iemong:registry="https://npm.pkg.github.com"
+@noplan-inc:registry="https://npm.pkg.github.com"
 //npm.pkg.github.com/:_authToken=gh...
 ```
 
@@ -15,17 +15,17 @@ add `.npmrc` in your projects (For install from Github Packages)
 
 #### npm
 ``` 
-npm install @iemong/eslint-config-typescript
+npm install @noplan-inc/eslint-config-typescript
 ```
 
 #### yarn
 ```
-yarn add @iemong/eslint-config-typescript
+yarn add @noplan-inc/eslint-config-typescript
 ```
 
 #### pnpm
 ```
-pnpm add @iemong/eslint-config-typescript
+pnpm add @noplan-inc/eslint-config-typescript
 ```
 
 ### eslint-config-next
@@ -34,17 +34,17 @@ pnpm add @iemong/eslint-config-typescript
 
 #### npm
 ``` 
-npm install @iemong/eslint-config-next
+npm install @noplan-inc/eslint-config-next
 ```
 
 #### yarn
 ```
-yarn add @iemong/eslint-config-next
+yarn add @noplan-inc/eslint-config-next
 ```
 
 #### pnpm
 ```
-pnpm add @iemong/eslint-config-next
+pnpm add @noplan-inc/eslint-config-next
 ```
 
 ## How to use
@@ -56,7 +56,7 @@ insert this config to extends in `.eslintrc` or `.eslintrc.json` or `.eslintrc.j
 {
   "extends": [
     /* some extends */
-    "@iemong/eslint-config-typescript"
+    "@noplan-inc/eslint-config-typescript"
   ]
 }
 
@@ -67,7 +67,7 @@ insert this config to extends in `.eslintrc` or `.eslintrc.json` or `.eslintrc.j
 {
   "extends": [
     /* some extends */
-    "@iemong/eslint-config-next"
+    "@noplan-inc/eslint-config-next"
   ]
 }
 

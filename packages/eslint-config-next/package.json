@@ -1,5 +1,5 @@
 {
-  "name": "@iemong/eslint-config-next",
+  "name": "@noplan-inc/eslint-config-next",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "eslint": ">= 8"
   },
   "dependencies": {
-    "@iemong/eslint-config-typescript": "workspace:^1.0.0",
+    "@noplan-inc/eslint-config-typescript": "workspace:^1.0.0",
     "eslint-config-next": "^13.2.1",
     "eslint-plugin-react": "^7.32.2"
   }
