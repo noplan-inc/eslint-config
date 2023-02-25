@@ -1,5 +1,11 @@
 # @noplan-inc/eslint-config-next
 
+## 1.0.1
+
+### Patch Changes
+
+- version up
+
 ## 1.0.0
 
 ### Major Changes
