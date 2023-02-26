@@ -51,7 +51,7 @@ pnpm add @noplan-inc/eslint-config-next
 
 insert the installed config to extends in `.eslintrc` or `.eslintrc.json` or `.eslintrc.js` and set parserOptinos.project for typescript-eslint.
 
-### TypeScript Project
+### TypeScript Project's eslint config
 ```
 {
   parserOptions: {
@@ -66,7 +66,7 @@ insert the installed config to extends in `.eslintrc` or `.eslintrc.json` or `.e
 
 ```
 
-### Next.js Project
+### Next.js Project's eslint config
 ```
 {
   parserOptions: {
