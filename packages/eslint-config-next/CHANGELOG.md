@@ -1,5 +1,13 @@
 # @noplan-inc/eslint-config-next
 
+## 1.0.2
+
+### Patch Changes
+
+- version up
+- Updated dependencies
+  - @noplan-inc/eslint-config-typescript@1.0.1
+
 ## 1.0.1
 
 ### Patch Changes
