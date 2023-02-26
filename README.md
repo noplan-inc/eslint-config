@@ -30,7 +30,7 @@ pnpm add @noplan-inc/eslint-config-typescript
 
 ### eslint-config-next
 
-`eslint-config-next` is a config for Next.js + TypeScript projects. This config includes `eslint-config-typescript`. So use this config only when setup Next.js projects.
+`eslint-config-next` is a config for Next.js + TypeScript projects. This config includes `eslint-config-typescript`. So use this config only when setup Next.js projects. You need to include `.esconfig.js` at `tsconfig.json`, using `.eslintrc.js`
 
 #### npm
 ``` 
