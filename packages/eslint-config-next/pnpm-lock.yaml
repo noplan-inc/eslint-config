@@ -2,12 +2,12 @@ lockfileVersion: 5.4
 
 specifiers:
   '@noplan-inc/eslint-config-typescript': workspace:1.0.1
-  eslint-config-next: ^13.2.1
+  eslint-config-next: ^13.4.8
   eslint-plugin-react: ^7.32.2
 
 dependencies:
   '@noplan-inc/eslint-config-typescript': link:../eslint-config-typescript
-  eslint-config-next: 13.2.1
+  eslint-config-next: 13.4.8
   eslint-plugin-react: 7.32.2
 
 packages:
@@ -19,8 +19,8 @@ packages:
       regenerator-runtime: 0.13.11
     dev: false
 
-  /@next/eslint-plugin-next/13.2.1:
-    resolution: {integrity: sha512-r0i5rcO6SMAZtqiGarUVMr3k256X0R0j6pEkKg4PxqUW+hG0qgMxRVAJsuoRG5OBFkCOlSfWZJ0mP9fQdCcyNg==}
+  /@next/eslint-plugin-next/13.4.8:
+    resolution: {integrity: sha512-cmfVHpxWjjcETFt2WHnoFU6EmY69QcPJRlRNAooQlNe53Ke90vg1Ci/dkPffryJZaxxiRziP9bQrV8lDVCn3Fw==}
     dependencies:
       glob: 7.1.7
     dev: false
@@ -400,8 +400,8 @@ packages:
       is-symbol: 1.0.4
     dev: false
 
-  /eslint-config-next/13.2.1:
-    resolution: {integrity: sha512-2GAx7EjSiCzJN6H2L/v1kbYrNiwQxzkyjy6eWSjuhAKt+P6d3nVNHGy9mON8ZcYd72w/M8kyMjm4UB9cvijgrw==}
+  /eslint-config-next/13.4.8:
+    resolution: {integrity: sha512-2hE0b6lHuhtHBX8VgEXi8v4G8PVrPUBMOSLCTq8qtcQ2qQOX7+uBOLK2kU4FD2qDZzyXNlhmuH+WLT5ptY4XLA==}
     peerDependencies:
       eslint: ^7.23.0 || ^8.0.0
       typescript: '>=3.3.1'
@@ -409,7 +409,7 @@ packages:
       typescript:
         optional: true
     dependencies:
-      '@next/eslint-plugin-next': 13.2.1
+      '@next/eslint-plugin-next': 13.4.8
       '@rushstack/eslint-patch': 1.2.0
       '@typescript-eslint/parser': 5.53.0
       eslint-import-resolver-node: 0.3.7
