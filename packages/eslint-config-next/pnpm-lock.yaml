@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@noplan-inc/eslint-config-typescript': workspace:1.0.1
+  '@noplan-inc/eslint-config-typescript': workspace:1.0.2
   eslint-config-next: ^13.4.8
   eslint-plugin-react: ^7.32.2
 
