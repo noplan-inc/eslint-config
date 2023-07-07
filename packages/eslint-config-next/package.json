@@ -10,6 +10,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
+  "private": false,
   "author": "iemong",
   "license": "MIT",
   "peerDependencies": {
