@@ -1,6 +1,6 @@
 {
   "name": "@noplan-inc/eslint-config-next",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "repository": {
@@ -17,7 +17,7 @@
     "eslint": ">= 8"
   },
   "dependencies": {
-    "@noplan-inc/eslint-config-typescript": "workspace:1.0.1",
+    "@noplan-inc/eslint-config-typescript": "workspace:1.0.2",
     "eslint-config-next": "^13.4.8",
     "eslint-plugin-react": "^7.32.2"
   }
